@@ -15,3 +15,4 @@ tony:
 redis:
   host: localhost
   port: 6379
+  password: chenghuikeji

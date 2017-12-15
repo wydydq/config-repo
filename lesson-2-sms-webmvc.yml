@@ -15,4 +15,4 @@ tony:
 redis:
   host: 192.168.1.101
   port: 6379
-  password: '{cypher}4938bfc910a9a46389c9a1db3e6f5eb377e422dc020577aa37031519bf34d4b9'
+  password: '{cipher}4938bfc910a9a46389c9a1db3e6f5eb377e422dc020577aa37031519bf34d4b9'
